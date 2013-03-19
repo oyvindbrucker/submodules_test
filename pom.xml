@@ -1,0 +1,10 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.submodules.test</groupId>
+  <artifactId>parentforsubs</artifactId>
+  <version>1</version>
+
+  <modules>
+    <module>sub2</module>
+  </modules>
+</project>
